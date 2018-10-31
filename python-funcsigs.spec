@@ -1,7 +1,7 @@
 Summary:	Python function signatures
 Name:		python-funcsigs
 Version:	1.0.2
-Release:	1
+Release:	2
 Group:		Development/Python
 License:	BSD
 Url:		http://pypi.python.org/pypi/funcsigs
