@@ -4,7 +4,7 @@ Version:	1.0.2
 Release:	5
 Group:		Development/Python
 License:	BSD
-Url:		http://pypi.python.org/pypi/funcsigs
+Url:		https://pypi.python.org/pypi/funcsigs
 Source0:	https://pypi.python.org/packages/94/4a/db842e7a0545de1cdb0439bb80e6e42dfe82aaeaadd4072f2263a4fbed23/funcsigs-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	python2dist(setuptools)
